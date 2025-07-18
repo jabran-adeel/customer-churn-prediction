@@ -77,7 +77,8 @@ I built a classification model using **Scikit-Learn**, deployed it using **Strea
 
 ## 👨‍💻 Developed By
 
-**[Jabran Adeel](https://github.com/jabran-adeel)** 
+**[Jabran Adeel](https://github.com/jabran-adeel)**   
+
 AI & ML Developer | Gen AI | Model Deployment | Data Analytics | Insight Generation
 
 ---
